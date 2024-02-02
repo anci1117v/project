@@ -1,0 +1,774 @@
+﻿Number,Genmodel,Genmodel_ID,Color,Bodytype,Engin_size,Gearbox,Fuel_type,Seat_num
+1,ABARTH 124,2_1,Silver,Saloon,6.8L,Automatic,Petrol,5
+2,ABARTH 500,2_2,Grey,Saloon,6.8L,Automatic,Petrol,5
+3,ABARTH 595,2_4,Blue,Saloon,6.8L,Automatic,Petrol,5
+4,ABARTH 695,2_6,Green,Saloon,6.8L,Automatic,Diesel,5
+5,ABARTH PUNTO,2_9,Grey,Saloon,6.8L,Automatic,Petrol,5
+6,ABARTH SPIDER,2_1,Blue,Saloon,6.8L,Automatic,Petrol,5
+7,ACURA TL,100_1,Green,Saloon,6.8L,Automatic,Diesel,5
+8,AIXAM 500,3_3,Black,Saloon,6.8L,Automatic,Petrol,5
+9,AIXAM A751,3_4,Silver,Saloon,6.8L,Automatic,Diesel,4
+10,AIXAM COUPE,3_5,Silver,Saloon,6.8L,Automatic,Petrol,5
+11,AIXAM CROSSLINE,3_1,Green,Saloon,6.8L,Automatic,Petrol,5
+12,AIXAM CROSSOVER,3_6,Silver,Saloon,6.8L,Automatic,Petrol,5
+13,AIXAM MEGA,3_7,Silver,Saloon,6.8L,Automatic,Petrol,5
+14,AIXAM SCOUTY,3_8,Blue,Saloon,6.8L,Automatic,Petrol,5
+15,ALFA ROMEO 147,4_1,Black,Saloon,6.7L,Automatic,Petrol,5
+16,ALFA ROMEO 156,4_2,Blue,Saloon,4.4L,Automatic,Diesel,5
+17,ALFA ROMEO 159,4_4,Blue,Saloon,6.8L,Automatic,Diesel,5
+18,ALFA ROMEO 166,4_6,White,Saloon,6.8L,Automatic,Diesel,5
+19,ALFA ROMEO 4C,4_7,Grey,Saloon,6.8L,Automatic,Diesel,5
+20,ALFA ROMEO 8C,4_8,Blue,Saloon,6.8L,Automatic,Petrol,5
+21,ALFA ROMEO BRERA,4_9,Silver,Saloon,6.8L,Automatic,Petrol,5
+22,ALFA ROMEO GIULIA,4_10,Blue,Saloon,6.8L,Automatic,Petrol,5
+23,ALFA ROMEO GIULIETTA,4_11,Blue,Saloon,6.8L,Automatic,Petrol,5
+24,ALFA ROMEO GT,4_12,White,Saloon,6.8L,Automatic,Petrol,5
+25,ALFA ROMEO GTV,4_13,Blue,Saloon,6.8L,Automatic,Petrol,5
+26,ALFA ROMEO MITO,4_14,Silver,Saloon,6.8L,Automatic,Petrol,5
+27,ALFA ROMEO SPIDER,4_15,Green,Saloon,6.8L,Automatic,Petrol,5
+28,ALFA ROMEO STELVIO,4_16,Silver,Saloon,6.8L,Automatic,Petrol,5
+29,ALPINE A110,101_1,Blue,Saloon,6.8L,Automatic,Petrol,5
+30,ASTON MARTIN CYGNET,6_1,Green,Saloon,6.8L,Automatic,Petrol,5
+31,ASTON MARTIN DB11,6_2,Red,Convertible,6.8L,Automatic,Petrol,5
+32,ASTON MARTIN DB5,6_12,Grey,SUV,6.0L,Automatic,Petrol,5
+33,ASTON MARTIN DB7,6_3,Brown,SUV,6.0L,Automatic,Petrol,5
+34,ASTON MARTIN DB9,6_4,Silver,SUV,6.0L,Automatic,Petrol,5
+35,ASTON MARTIN DB9O,6_4,Grey,SUV,4.0L,Automatic,Diesel,5
+36,ASTON MARTIN DBS,6_5,Black,SUV,6.0L,Automatic,Petrol,5
+37,ASTON MARTIN RAPIDE,6_6,Black,SUV,4.0L,Automatic,Petrol,5
+38,ASTON MARTIN VANQUISH,6_8,Grey,SUV,6.0L,Automatic,Petrol,5
+39,ASTON MARTIN VANTAGE,6_9,Grey,SUV,4.0L,Automatic,Petrol,5
+40,ASTON MARTIN VIRAGE,6_10,Grey,SUV,4.0L,Automatic,Diesel,5
+41,AUDI A1,7_1,Blue,SUV,6.0L,Automatic,Petrol,5
+42,AUDI A2,7_2,White,SUV,6.0L,Automatic,Petrol,5
+43,AUDI A3,7_3,Grey,SUV,6.0L,Automatic,Petrol,5
+44,AUDI A4,7_5,Black,SUV,4.0L,Automatic,Diesel,5
+45,AUDI A5,7_9,Blue,SUV,6.0L,Automatic,Petrol,5
+46,AUDI A6,7_11,Green,SUV,4.0L,Automatic,Diesel,5
+47,AUDI A7,7_15,Black,SUV,4.0L,Automatic,Diesel,5
+48,AUDI A8,7_16,Grey,SUV,6.0L,Automatic,Petrol,4
+49,AUDI ALLROAD,7_17,White,SUV,4.0L,Automatic,Diesel,5
+50,AUDI E-TRON,7_51,Black,SUV,4.0L,Automatic,Diesel,5
+51,AUDI Q2,7_18,Black,SUV,6.0L,Automatic,Petrol,5
+52,AUDI Q3,7_19,Silver,SUV,4.0L,Automatic,Diesel,5
+53,AUDI Q5,7_20,Black,SUV,4.0L,Automatic,Petrol,5
+54,AUDI Q7,7_21,Black,SUV,4.0L,Automatic,Petrol,5
+55,AUDI Q8,7_49,Black,SUV,,Automatic,Petrol,5
+56,AUDI QUATTRO,7_22,Black,SUV,4.0L,Automatic,Petrol,5
+57,AUDI R8,7_23,Green,SUV,4.0L,Automatic,Diesel,5
+58,AUDI RIO,7_35,Blue,SUV,4.0L,Automatic,Petrol,5
+59,AUDI RS3,7_25,Black,SUV,4.0L,Automatic,Diesel,5
+60,AUDI RS4,7_26,Black,SUV,6.0L,Automatic,Petrol,5
+61,AUDI RS5,7_30,Orange,SUV,6.0L,Automatic,Petrol,5
+62,AUDI RS6,7_31,Grey,SUV,4.0L,Automatic,Diesel,5
+63,AUDI RS7,7_33,Grey,SUV,4.0L,Automatic,Petrol,5
+64,AUDI RSQ3,7_24,Grey,Estate,6.0L,Semi-Automatic,Petrol,5
+65,AUDI S1,7_34,Silver,SUV,6.0L,Automatic,Petrol,5
+66,AUDI S3,7_35,Grey,SUV,6.0L,Automatic,Petrol,5
+67,AUDI S4,7_36,Grey,Estate,6.0L,Automatic,Petrol,5
+68,AUDI S5,7_39,White,SUV,4.0L,Automatic,Petrol,5
+69,AUDI S6,7_41,Blue,SUV,4.0L,Automatic,Petrol,5
+70,AUDI S7,7_42,White,SUV,4.0L,Automatic,Diesel,5
+71,AUDI S8,7_43,Silver,SUV,4.0L,Automatic,Diesel,5
+72,AUDI SQ2,7_50,Grey,SUV,6.0L,Automatic,Petrol,5
+73,AUDI SQ5,7_44,Grey,SUV,4.0L,Automatic,Petrol,5
+74,AUDI SQ7,7_45,Silver,SUV,6.0L,Automatic,Petrol,5
+75,AUDI TT,7_46,Black,SUV,4.0L,Automatic,Diesel,5
+76,AUDI TTRS,7_47,White,SUV,4.0L,Automatic,Diesel,5
+77,AUDI TTS,7_48,Silver,SUV,4.0L,Automatic,Diesel,5
+78,BENTLEY ARNAGE,10_1,Green,SUV,6.0L,Automatic,Petrol,5
+79,BENTLEY AZURE,10_2,Grey,SUV,4.0L,Automatic,Petrol,5
+80,BENTLEY BENTAYGA,10_3,Black,SUV,4.0L,Automatic,Diesel,5
+81,BENTLEY BROOKLANDS,10_4,Black,SUV,4.0L,Automatic,Diesel,5
+82,BENTLEY CONTINENTAL,10_5,White,SUV,4.0L,Automatic,Diesel,5
+83,BENTLEY FLYING SPUR,10_6,Grey,SUV,6.0L,Automatic,Petrol,5
+84,BENTLEY MULSANNE,10_7,Black,SUV,4.0L,Automatic,Diesel,5
+85,BMW 1 SERIES,8_1,Grey,SUV,6.0L,Automatic,Petrol,5
+86,BMW 2 SERIES,8_2,White,SUV,4.0L,Automatic,Diesel,5
+87,BMW 3 SERIES,8_5,Blue,SUV,4.0L,Automatic,Diesel,5
+88,BMW 4 SERIES,8_7,Blue,SUV,4.0L,Automatic,Petrol,5
+89,BMW 5 SERIES,8_9,Grey,SUV,4.0L,Automatic,Diesel,5
+90,BMW 6 SERIES,8_11,Silver,SUV,6.0L,Automatic,Petrol,5
+91,BMW 7 SERIES,8_14,Black,SUV,4.0L,Automatic,Diesel,5
+92,BMW 8 SERIES,8_49,White,SUV,4.0L,Automatic,Diesel,7
+93,BMW I3,8_27,Red,SUV,6.0L,Automatic,Petrol,5
+94,BMW I8,8_28,Black,SUV,4.0L,Automatic,Diesel,5
+95,BMW M1,8_48,Black,SUV,4.0L,Automatic,Diesel,5
+96,BMW M2,8_29,Black,SUV,6.0L,Automatic,Petrol,5
+97,BMW M3,8_30,Blue,SUV,4.0L,Automatic,Diesel,5
+98,BMW M4,8_31,Black,SUV,6.0L,Automatic,Petrol,5
+99,BMW M5,8_32,Black,SUV,6.0L,Automatic,Petrol,5
+100,BMW M6,8_33,Black,SUV,6.0L,Automatic,Petrol,5
+101,BMW X1,8_35,Silver,SUV,4.0L,Automatic,Diesel,5
+102,BMW X2,8_36,Grey,SUV,4.0L,Automatic,Petrol,5
+103,BMW X3,8_37,Black,SUV,6.0L,Automatic,Petrol,5
+104,BMW X4,8_38,Blue,SUV,6.0L,Automatic,Petrol,5
+105,BMW X5,8_39,Black,SUV,6.0L,Automatic,Petrol,5
+106,BMW X6,8_41,Black,SUV,6.0L,Automatic,Petrol,5
+107,BMW X7,8_50,Black,SUV,6.0L,Automatic,Petrol,5
+108,BMW Z3,8_43,Silver,SUV,6.0L,Automatic,Petrol,5
+109,BMW Z4,8_45,Grey,SUV,4.0L,Automatic,Diesel,5
+110,BMW Z8,8_47,White,SUV,4.0L,Automatic,Petrol,7
+111,BRISTOL FIGHTER,11_1,Black,SUV,1.5L,Automatic,Petrol,5
+112,CADILLAC BLS,14_1,Grey,SUV,4.0L,Automatic,Petrol,5
+113,CADILLAC CTS,14_2,Grey,SUV,4.0L,Automatic,Petrol,5
+114,CADILLAC ESCALADE,14_3,Black,SUV,4.0L,Automatic,Diesel,5
+115,CADILLAC STS,14_5,Grey,SUV,6.0L,Automatic,Petrol,5
+116,CHEVROLET AVEO,16_2,White,SUV,4.0L,Automatic,Diesel,5
+117,CHEVROLET CAMARO,16_4,Blue,SUV,6.0L,Automatic,Petrol,5
+118,CHEVROLET CAPTIVA,16_5,Black,SUV,4.0L,Automatic,Diesel,5
+119,CHEVROLET CORVETTE,16_6,Grey,SUV,4.0L,Automatic,Diesel,5
+120,CHEVROLET CRUZE,16_7,Grey,SUV,4.0L,Automatic,Diesel,5
+121,CHEVROLET EPICA,16_8,Grey,SUV,6.0L,Automatic,Petrol,5
+122,CHEVROLET KALOS,16_10,Grey,SUV,4.0L,Automatic,Petrol,5
+123,CHEVROLET LACETTI,16_11,Grey,SUV,6.0L,Automatic,Petrol,5
+124,CHEVROLET MATIZ,16_12,Grey,SUV,6.0L,Automatic,Petrol,5
+125,CHEVROLET ORLANDO,16_13,Black,SUV,6.0L,Automatic,Petrol,5
+126,CHEVROLET SPARK,16_14,White,SUV,4.0L,Automatic,Diesel,5
+127,CHEVROLET TACUMA,16_16,Blue,SUV,6.0L,Automatic,Petrol,5
+128,CHEVROLET TRAX,16_18,White,SUV,6.0L,Automatic,Petrol,5
+129,CHEVROLET VOLT,16_19,Grey,SUV,4.0L,Automatic,Diesel,5
+130,CHRYSLER 300,17_1,Silver,SUV,4.0L,Automatic,Petrol,5
+131,CHRYSLER 300C,17_1,Black,SUV,6.0L,Automatic,Petrol,5
+132,CHRYSLER CROSSFIRE,17_2,Blue,SUV,4.0L,Automatic,Petrol,5
+133,CHRYSLER DELTA,17_3,Grey,SUV,6.0L,Automatic,Petrol,5
+134,CHRYSLER GRAND VOYAGER,17_4,Grey,SUV,4.0L,Automatic,Diesel,5
+135,CHRYSLER NEON,17_5,Grey,SUV,6.0L,Automatic,Petrol,7
+136,CHRYSLER PT CRUISER,17_7,Black,SUV,4.0L,Automatic,Diesel,7
+137,CHRYSLER SEBRING,17_8,Grey,Estate,4.0L,Semi-Automatic,Petrol,7
+138,CHRYSLER VOYAGER,17_9,Blue,SUV,4.0L,Automatic,Diesel,5
+139,CHRYSLER YPSILON,17_10,Grey,SUV,4.0L,Automatic,Petrol,5
+140,CITROEN BERLINGO,18_2,Black,SUV,4.0L,Automatic,Petrol,5
+141,CITROEN C1,18_6,Grey,SUV,4.0L,Automatic,Diesel,5
+142,CITROEN C2,18_7,Silver,SUV,6.0L,Automatic,Petrol,5
+143,CITROEN C3,18_8,Black,SUV,6.0L,Automatic,Petrol,5
+144,CITROEN C4,18_12,Black,SUV,4.0L,Automatic,Diesel,5
+145,CITROEN C5,18_15,Black,SUV,4.0L,Automatic,Diesel,5
+146,CITROEN C6,18_16,Silver,SUV,6.0L,Automatic,Petrol,5
+147,CITROEN C8,18_17,Red,SUV,4.0L,Automatic,Diesel,7
+148,CITROEN C-CROSSER,18_4,Blue,SUV,4.0L,Automatic,Diesel,5
+149,CITROEN C-ZERO,18_5,Grey,SUV,6.0L,Automatic,Petrol,5
+150,CITROEN DISPATCH,18_18,Blue,SUV,4.0L,Automatic,Diesel,5
+151,CITROEN DS3,21_1,Grey,SUV,4.0L,Automatic,Diesel,5
+152,CITROEN DS4,21_3,Black,SUV,4.0L,Automatic,Petrol,5
+153,CITROEN DS5,21_5,Blue,SUV,6.0L,Automatic,Petrol,5
+154,CITROEN NEMO,18_25,Blue,SUV,4.0L,Automatic,Diesel,5
+155,CITROEN SAXO,18_26,Blue,SUV,4.0L,Automatic,Diesel,5
+156,CITROEN SPACETOURER,18_27,Black,SUV,4.0L,Automatic,Petrol,5
+157,CITROEN SYNERGIE,18_28,Black,SUV,6.0L,Automatic,Petrol,5
+158,CITROEN XANTIA,18_31,Silver,SUV,4.0L,Automatic,Petrol,5
+159,CITROEN XSARA,18_29,Red,SUV,4.0L,Automatic,Diesel,5
+160,CORVETTE C6,19_1,Grey,SUV,4.0L,Automatic,Petrol,5
+161,DACIA DUSTER,22_1,Black,SUV,4.0L,Automatic,Petrol,5
+162,DACIA LOGAN,22_2,Black,SUV,4.0L,Automatic,Petrol,5
+163,DACIA SANDERO,22_3,Grey,SUV,4.0L,Automatic,Petrol,5
+164,DAEWOO KALOS,23_1,Grey,SUV,3.0L,Automatic,Petrol Plug-in Hybrid,5
+165,DAEWOO LACETTI,23_2,Black,SUV,4.0L,Automatic,Petrol,5
+166,DAEWOO LANOS,23_6,Black,SUV,4.0L,Automatic,Petrol,5
+167,DAEWOO LEGANZA,23_7,Black,SUV,4.0L,Automatic,Petrol,5
+168,DAEWOO MATIZ,23_3,Blue,SUV,4.0L,Automatic,Petrol,5
+169,DAEWOO MUSSO,23_8,Silver,SUV,4.0L,Automatic,Petrol,5
+170,DAEWOO NUBIRA,23_4,Black,SUV,4.0L,Automatic,Petrol,5
+171,DAEWOO TACUMA,23_5,Black,SUV,4.0L,Automatic,Petrol,5
+172,DAIHATSU CHARADE,24_2,Black,SUV,4.0L,Automatic,Petrol,5
+173,DAIHATSU COPEN,24_3,Blue,SUV,4.0L,Automatic,Petrol,5
+174,DAIHATSU CUORE,24_4,Grey,SUV,4.0L,Automatic,Petrol,5
+175,DAIHATSU FOURTRAK,24_5,Silver,Coupe,6.75L,Automatic,Petrol,4
+176,DAIHATSU MATERIA,24_6,Blue,Coupe,6.75L,Automatic,Petrol,4
+177,DAIHATSU SIRION,24_7,Grey,Coupe,6.75L,Automatic,Petrol,4
+178,DAIHATSU TERIOS,24_8,Blue,Saloon,6.8L,Automatic,Petrol,4
+179,DAIHATSU YRV,24_9,Green,Saloon,6.8L,Automatic,Petrol,4
+180,DODGE AVENGER,26_1,Silver,Saloon,6.8L,Automatic,Petrol,4
+181,DODGE CALIBER,26_2,Grey,Convertible,4.0L,Automatic,Petrol,4
+182,DODGE JOURNEY,26_5,Black,Convertible,6.0L,Automatic,Petrol,4
+183,DODGE NITRO,26_6,Grey,Coupe,6.0L,Automatic,Petrol,4
+184,DS DS3,21_1,White,Coupe,6.0L,Automatic,Petrol,4
+185,DS DS4,21_3,Grey,Coupe,6.0L,Automatic,Petrol,4
+186,DS DS5,21_5,Grey,Convertible,6.0L,Automatic,Petrol,4
+187,DS DS7,21_6,Silver,Convertible,4.0L,Automatic,Petrol,4
+188,FERRARI 360,27_2,Black,Coupe,6.0L,Automatic,Petrol,4
+189,FERRARI 430,27_3,Black,Coupe,6.0L,Automatic,Petrol,4
+190,FERRARI 458,27_6,Grey,Coupe,4.0L,Automatic,Petrol,4
+191,FERRARI 488,27_7,Black,Coupe,4.0L,Automatic,Petrol,4
+192,FERRARI 575M,27_9,Black,Convertible,4.0L,Automatic,Petrol,4
+193,FERRARI 599,27_10,Blue,Coupe,4.0L,Automatic,Petrol,4
+194,FERRARI 612,27_11,White,Coupe,4.0L,Automatic,Petrol,4
+195,FERRARI CALIFORNIA,27_13,Silver,Coupe,6.0L,Automatic,Petrol,4
+196,FERRARI F430,27_18,Silver,Convertible,6.0L,Automatic,Petrol,4
+197,FERRARI FF,27_19,Blue,Coupe,6.0L,Automatic,Petrol,4
+198,FERRARI LAFERRARI,27_21,Silver,Coupe,6.0L,Automatic,Petrol,4
+199,FERRARI PORTOFINO,27_23,Green,Coupe,6.0L,Automatic,Petrol,4
+200,FIAT 124,28_1,Black,Coupe,4.0L,Automatic,Petrol,4
+201,FIAT 500,28_2,Blue,Convertible,6.0L,Automatic,Petrol,4
+202,FIAT 500L,28_4,White,Coupe,4.0L,Automatic,Petrol,4
+203,FIAT 500X,28_5,Silver,Coupe,6.0L,Automatic,Petrol,4
+204,FIAT 850,28_6,Blue,Coupe,6.0L,Automatic,Petrol,4
+205,FIAT BARCHETTA,28_8,Grey,Coupe,4.0L,Automatic,Petrol,4
+206,FIAT BRAVA,28_9,Grey,Convertible,6.0L,Automatic,Petrol,4
+207,FIAT BRAVO,28_10,Silver,Coupe,6.0L,Automatic,Petrol,4
+208,FIAT CROMA,28_11,Red,Convertible,6.0L,Automatic,Petrol,4
+209,FIAT DOBLO,28_12,Black,Convertible,4.0L,Automatic,Petrol,4
+210,FIAT FIORINO,28_13,Silver,Coupe,6.0L,Automatic,Petrol,4
+211,FIAT IDEA,28_16,White,Saloon,6.0L,Automatic,Petrol,5
+212,FIAT MAREA,28_30,Black,Coupe,6.0L,Automatic,Petrol,4
+213,FIAT MULTIPLA,28_17,Black,Convertible,6.0L,Automatic,Petrol,4
+214,FIAT PANDA,28_18,Black,Convertible,6.0L,Automatic,Petrol,4
+215,FIAT PUNTO,28_19,Black,Coupe,4.0L,Automatic,Petrol,4
+216,FIAT QUBO,28_21,Silver,Coupe,6.0L,Automatic,Petrol,4
+217,FIAT SCUDO,28_22,Blue,Coupe,6.0L,Automatic,Petrol,4
+218,FIAT SEDICI,28_23,Black,Coupe,6.0L,Automatic,Petrol,4
+219,FIAT SEICENTO,28_24,Grey,Convertible,4.0L,Automatic,Petrol,4
+220,FIAT STILO,28_26,Grey,Coupe,6.0L,Automatic,Petrol,4
+221,FIAT TALENTO,28_27,Grey,Coupe,6.0L,Automatic,Petrol,4
+222,FIAT TIPO,28_28,Black,Coupe,6.0L,Automatic,Petrol,4
+223,FIAT ULYSSE,28_29,Grey,Coupe,4.0L,Automatic,Petrol,4
+224,FORD B-MAX,29_1,White,Coupe,6.0L,Automatic,Petrol,4
+225,FORD C-MAX,29_2,Silver,Coupe,6.0L,Automatic,Petrol,4
+226,FORD COUGAR,29_3,Silver,Coupe,6.0L,Automatic,Petrol,4
+227,FORD ECOSPORT,29_4,Blue,Coupe,6.0L,Automatic,Petrol,4
+228,FORD EDGE,29_5,Black,Coupe,6.0L,Automatic,Petrol,4
+229,FORD ESCORT,29_7,Blue,Coupe,6.0L,Automatic,Petrol,4
+230,FORD EXPLORER,29_9,Blue,Convertible,6.0L,Automatic,Petrol,4
+231,FORD F150,29_11,Silver,Coupe,6.0L,Automatic,Petrol,4
+232,FORD FIESTA,29_13,Blue,Convertible,6.0L,Automatic,Petrol,4
+233,FORD FOCUS,29_14,White,Saloon,6.0L,Automatic,Petrol,4
+234,FORD FREEDOM,29_40,Blue,Saloon,6.0L,Automatic,Petrol,4
+235,FORD FUSION,29_18,Black,Convertible,6.0L,Automatic,Petrol,4
+236,FORD GALAXY,29_19,White,Convertible,6.0L,Automatic,Petrol,4
+237,FORD GRAND C-MAX,29_20,Black,Convertible,6.0L,Automatic,Petrol,4
+238,FORD GT,29_22,White,Convertible,4.0L,Automatic,Petrol,4
+239,FORD INDEPENDENCE,29_41,Grey,Coupe,6.0L,Automatic,Petrol,4
+240,FORD KA,29_23,Black,Convertible,6.0L,Automatic,Petrol,4
+241,FORD KA+,29_24,Blue,Convertible,6.0L,Automatic,Petrol,4
+242,FORD KUGA,29_25,White,Convertible,4.0L,Automatic,Petrol,4
+243,FORD MAVERICK,29_26,Black,Convertible,6.0L,Automatic,Petrol,4
+244,FORD MONDEO,29_27,Blue,Coupe,6.0L,Automatic,Petrol,4
+245,FORD MONDEO TITANIUM,29_27,Black,Convertible,6.0L,Automatic,Petrol,4
+246,FORD MUSTANG,29_28,Silver,Coupe,6.0L,Automatic,Petrol,4
+247,FORD PUMA,29_29,Brown,Coupe,6.0L,Automatic,Petrol,4
+248,FORD RANGER,29_30,Red,Convertible,4.0L,Automatic,Petrol,4
+249,FORD S-MAX,29_31,Silver,Coupe,6.0L,Automatic,Petrol,4
+250,FORD STREETKA,29_32,Black,Convertible,6.0L,Automatic,Petrol,4
+251,FORD TOURNEO CONNECT,29_34,Silver,Convertible,6.0L,Automatic,Petrol,4
+252,FORD TOURNEO COURIER,29_39,Black,Coupe,6.0L,Automatic,Petrol,4
+253,FORD TOURNEO CUSTOM,29_35,Black,Coupe,6.0L,Semi-Automatic,Petrol,4
+254,FORD TRANSIT CONNECT,29_36,Blue,Convertible,6.0L,Automatic,Petrol,4
+255,FORD TRANSIT COURIER,29_37,Black,Convertible,6.0L,Automatic,Petrol,4
+256,FORD TRANSIT CUSTOM,29_38,Silver,Coupe,6.0L,Automatic,Petrol,4
+257,HONDA ACCORD,34_1,Black,Coupe,6.0L,Automatic,Petrol,4
+258,HONDA CIVIC,34_2,Grey,Coupe,6.0L,Automatic,Petrol,4
+259,HONDA CRV,34_3,Blue,Coupe,6.0L,Automatic,Petrol,4
+260,HONDA CR-V,34_3,Black,Convertible,4.0L,Automatic,Petrol,4
+261,HONDA CR-Z,34_4,White,Coupe,6.0L,Automatic,Petrol,4
+262,HONDA FR-V,34_7,Grey,Coupe,6.0L,Automatic,Petrol,4
+263,HONDA HR-V,34_8,Grey,Coupe,4.0L,Automatic,Petrol,4
+264,HONDA INSIGHT,34_9,Black,Coupe,4.0L,Automatic,Petrol,4
+265,HONDA INTEGRA,34_10,Black,Coupe,6.0L,Automatic,Petrol,4
+266,HONDA JAZZ,34_11,Black,Coupe,6.0L,Automatic,Petrol,4
+267,HONDA LEGEND,34_12,Silver,Coupe,6.0L,Automatic,Petrol,4
+268,HONDA NSX,34_13,Silver,Coupe,6.0L,Automatic,Petrol,4
+269,HONDA ODYSSEY,34_14,Silver,Coupe,6.0L,Automatic,Petrol,4
+270,HONDA PRELUDE,34_19,Silver,Coupe,6.0L,Automatic,Petrol,4
+271,HONDA S2000,34_16,Maroon,Saloon,6.0L,Automatic,Petrol,4
+272,HONDA STEPWAGON,34_17,Silver,Coupe,6.0L,Automatic,Petrol,5
+273,HONDA STREAM,34_18,Black,Convertible,6.0L,Automatic,Petrol,4
+274,HUMMER H2,35_2,Black,Convertible,4.0L,Automatic,Petrol,4
+275,HUMMER H3,35_3,Black,Coupe,6.0L,Automatic,Petrol,4
+276,HYUNDAI ACCENT,36_1,Silver,Coupe,6.0L,Automatic,Petrol,4
+277,HYUNDAI AMICA,36_2,Grey,Coupe,4.0L,Automatic,Petrol,4
+278,HYUNDAI COUPE,36_3,Black,Convertible,6.0L,Automatic,Petrol,4
+279,HYUNDAI ELANTRA,36_4,Grey,Coupe,6.0L,Automatic,Petrol,4
+280,HYUNDAI GENESIS,36_5,Silver,Coupe,6.0L,Automatic,Petrol,4
+281,HYUNDAI GETZ,36_6,Grey,Coupe,6.0L,Automatic,Petrol,4
+282,HYUNDAI GRANDEUR,36_7,Black,Convertible,6.0L,Automatic,Petrol,4
+283,HYUNDAI I10,36_8,Silver,Coupe,6.0L,Automatic,Petrol,4
+284,HYUNDAI I20,36_9,Black,Coupe,6.0L,Automatic,Petrol,4
+285,HYUNDAI I30,36_10,Blue,Coupe,6.0L,Automatic,Petrol,4
+286,HYUNDAI I40,36_12,Silver,Coupe,6.0L,Automatic,Petrol,4
+287,HYUNDAI I800,36_13,Blue,Coupe,6.0L,Automatic,Petrol,4
+288,HYUNDAI IONIQ,36_14,Grey,Coupe,4.0L,Automatic,Petrol,4
+289,HYUNDAI IX20,36_15,White,Convertible,4.0L,Automatic,Petrol,4
+290,HYUNDAI IX35,36_16,Blue,Coupe,4.0L,Automatic,Petrol,4
+291,HYUNDAI KONA,36_17,Silver,Convertible,6.0L,Automatic,Petrol,4
+292,HYUNDAI LANTRA,36_4,Black,Convertible,4.0L,Automatic,Petrol,4
+293,HYUNDAI MATRIX,36_18,Blue,Coupe,6.0L,Automatic,Petrol,4
+294,HYUNDAI SANTA FE,36_20,Grey,Coupe,4.0L,Automatic,Petrol,4
+295,HYUNDAI SONATA,36_21,Blue,Coupe,6.0L,Automatic,Petrol,4
+296,HYUNDAI TERRACAN,36_22,Black,Coupe,4.0L,Automatic,Petrol,4
+297,HYUNDAI TRAJET,36_23,Black,Convertible,6.0L,Automatic,Petrol,4
+298,HYUNDAI TUCSON,36_24,White,Coupe,6.0L,Automatic,Petrol,4
+299,HYUNDAI VELOSTER,36_25,Black,Coupe,6.0L,Automatic,Petrol,4
+300,INFINITI FX30,37_2,Silver,Convertible,6.0L,Automatic,Petrol,4
+301,INFINITI Q30,37_5,Black,Coupe,4.0L,Automatic,Petrol,4
+302,INFINITI Q50,37_6,Black,Coupe,6.0L,Automatic,Petrol,4
+303,INFINITI Q60,37_7,Red,Coupe,4.0L,Automatic,Petrol,4
+304,INFINITI Q70,37_8,Black,Convertible,4.0L,Automatic,Petrol,4
+305,INFINITI QX30,37_9,Black,Saloon,6.0L,Automatic,Petrol,4
+306,INFINITI QX50,37_10,Silver,Convertible,6.0L,Automatic,Petrol,4
+307,INFINITI QX70,37_11,Silver,Coupe,6.0L,Automatic,Petrol,4
+308,ISUZU D-MAX,38_2,Grey,Coupe,4.0L,Automatic,Petrol,4
+309,ISUZU TROOPER,38_4,Silver,Convertible,6.0L,Automatic,Petrol,4
+310,JAGUAR EAGLE,39_14,Blue,Coupe,6.0L,Automatic,Petrol,4
+311,JAGUAR E-PACE,39_1,Black,Coupe,6.0L,Automatic,Petrol,4
+312,JAGUAR F TYPE,39_3,Black,Convertible,6.0L,Automatic,Petrol,4
+313,JAGUAR F-PACE,39_2,Black,Convertible,4.0L,Automatic,Petrol,4
+314,JAGUAR F-TYPE,39_3,Brown,Coupe,6.0L,Automatic,Petrol,4
+315,JAGUAR I-PACE,39_13,Silver,Coupe,6.0L,Automatic,Petrol,4
+316,JAGUAR S TYPE,39_4,Blue,Saloon,6.0L,Automatic,Petrol,5
+317,JAGUAR X TYPE,39_5,Blue,Convertible,6.0L,Automatic,Petrol Ethanol,4
+318,JAGUAR XE SERIES,39_6,Silver,Coupe,6.0L,Automatic,Petrol,4
+319,JAGUAR XF SERIES,39_7,Blue,Coupe,6.0L,Automatic,Petrol,4
+320,JAGUAR XJ SERIES,39_8,Purple,Convertible,6.0L,Automatic,Petrol,4
+321,JAGUAR XK SERIES,39_9,Green,Coupe,6.0L,Automatic,Petrol,4
+322,JEEP CHEROKEE,40_1,Grey,Coupe,6.0L,Automatic,Petrol,4
+323,JEEP COMMANDER,40_2,Grey,Coupe,4.0L,Automatic,Petrol,4
+324,JEEP COMPASS,40_3,Black,Coupe,6.0L,Automatic,Petrol,4
+325,JEEP GRAND CHEROKEE,40_4,Black,Coupe,4.0L,Automatic,Petrol,4
+326,JEEP PATRIOT,40_5,Black,Coupe,6.0L,Automatic,Petrol,4
+327,JEEP RENEGADE,40_6,Black,Convertible,6.0L,Automatic,Petrol,4
+328,JEEP WRANGLER,40_7,Silver,Convertible,6.0L,Automatic,Petrol,4
+329,KIA CARENS,43_1,Grey,Coupe,6.0L,Automatic,Petrol,4
+330,KIA CEED,43_2,Silver,Coupe,6.0L,Automatic,Petrol,4
+331,KIA CERATO,43_3,Black,Coupe,4.0L,Automatic,Petrol,4
+332,KIA CLARUS,43_3,Black,Coupe,6.0L,Automatic,Petrol,4
+333,KIA MAGENTIS,43_4,Silver,Coupe,4.0L,Automatic,Petrol,4
+334,KIA MENTOR,43_17,Black,Convertible,6.0L,Automatic,Petrol,4
+335,KIA NIRO,43_5,Blue,Coupe,6.0L,Automatic,Petrol,4
+336,KIA OPTIMA,43_6,Silver,Coupe,6.0L,Semi-Automatic,Petrol,4
+337,KIA PICANTO,43_7,Blue,Saloon,6.0L,Automatic,Petrol,4
+338,KIA PRO CEED,43_8,Black,Coupe,4.0L,Automatic,Petrol,4
+339,KIA RIO,43_9,Blue,Convertible,6.0L,Semi-Automatic,Petrol,4
+340,KIA SEDONA,43_10,Grey,Convertible,6.0L,Automatic,Petrol,4
+341,KIA SHUMA,43_17,Green,Coupe,6.0L,Automatic,Petrol,4
+342,KIA SORENTO,43_11,Black,Convertible,4.0L,Automatic,Petrol,4
+343,KIA SOUL,43_12,Silver,Convertible,6.0L,Automatic,Petrol,4
+344,KIA SPORTAGE,43_13,Red,Coupe,6.0L,Automatic,Petrol,4
+345,KIA STINGER,43_14,Blue,Convertible,6.0L,Semi-Automatic,Petrol,4
+346,KIA STONIC,43_15,Grey,Convertible,4.0L,Automatic,Petrol,4
+347,KIA STINGER,43_14,White,Convertible,6.0L,Automatic,Petrol,4
+348,KIA VENGA,43_16,Blue,Coupe,6.0L,Automatic,Petrol,4
+349,KIA XCEED,43_19,Black,Coupe,6.0L,Automatic,Petrol,4
+350,LAMBORGHINI AVENTADOR,45_1,Red,Coupe,6.0L,Automatic,Petrol,4
+351,LAMBORGHINI DIABLO,45_2,Black,Coupe,6.0L,Automatic,Petrol,4
+352,LAMBORGHINI GALLARDO,45_3,Blue,Coupe,4.0L,Automatic,Petrol,4
+353,LAMBORGHINI HURACAN,45_4,Grey,Coupe,6.0L,Automatic,Petrol,4
+354,LAMBORGHINI MURCIELAGO,45_5,Grey,Coupe,6.0L,Automatic,Petrol,4
+355,LAND ROVER 110,47_1,Black,Coupe,6.0L,Automatic,Petrol,4
+356,LAND ROVER DEFENDER,47_5,Green,Coupe,6.0L,Automatic,Petrol,4
+357,LAND ROVER DISCOVERY,47_6,Grey,Coupe,4.0L,Automatic,Petrol,4
+358,LAND ROVER FREELANDER,47_11,Red,Coupe,6.0L,Automatic,Petrol,4
+359,LAND ROVER RANGE ROVER,47_13,Black,Coupe,4.0L,Automatic,Petrol,4
+360,LEXUS CT 200,48_1,Grey,Coupe,6.0L,Automatic,Petrol,4
+361,LEXUS ES 300,48_32,Red,Coupe,6.0L,Automatic,Petrol,4
+362,LEXUS GS 250,48_2,Black,Saloon,6.0L,Automatic,Petrol,4
+363,LEXUS GS 300,48_2,Purple,Coupe,6.0L,Automatic,Petrol,4
+364,LEXUS GS 450,48_2,White,Coupe,6.0L,Automatic,Petrol,4
+365,LEXUS GS300,48_2,Grey,Convertible,4.0L,Automatic,Petrol,4
+366,LEXUS IS F,48_8,Black,Convertible,6.0L,Automatic,Petrol,4
+367,LEXUS IS200,48_8,Grey,Coupe,4.0L,Automatic,Petrol,4
+368,LEXUS IS220,48_8,Silver,Coupe,6.8L,Automatic,Petrol,4
+369,LEXUS IS250,48_8,White,Coupe,4.0L,Automatic,Petrol,4
+370,LEXUS IS300,48_8,Red,Convertible,6.0L,Automatic,Petrol,4
+371,LEXUS LC 500,48_14,Silver,Coupe,6.0L,Automatic,Petrol,4
+372,LEXUS LS430,48_15,Silver,Coupe,6.0L,Automatic,Petrol,4
+373,LEXUS NX300,48_18,Grey,Convertible,6.0L,Automatic,Petrol,4
+374,LEXUS RC 300,48_21,Silver,Saloon,6.0L,Automatic,Petrol,5
+375,LEXUS RC F,48_21,Black,Coupe,4.0L,Automatic,Petrol,4
+376,LEXUS RX300,48_24,Green,Coupe,6.0L,Automatic,Petrol,4
+377,LEXUS RX350,48_24,White,Coupe,6.0L,Automatic,Petrol,4
+378,LEXUS RX400,48_24,Black,Coupe,6.0L,Automatic,Petrol,4
+379,LEXUS RX450,48_24,White,Coupe,6.0L,Automatic,Petrol,4
+380,LEXUS RX,48_24,Blue,Saloon,6.0L,Automatic,Petrol,4
+381,LEXUS SC430,48_30,Grey,Convertible,4.0L,Automatic,Petrol,4
+382,LEXUS UX 250H,48_31,Blue,Convertible,6.0L,Automatic,Petrol,4
+383,LINCOLN TOWN CAR,49_2,Black,Coupe,6.0L,Automatic,Petrol,4
+384,LOTUS ELISE,51_3,Black,Coupe,6.0L,Automatic,Petrol,4
+385,LOTUS ESPRIT,51_5,Silver,Coupe,6.0L,Automatic,Petrol,4
+386,LOTUS EVORA,51_6,Blue,Coupe,4.0L,Automatic,Petrol,4
+387,LOTUS EXIGE,51_7,Black,Convertible,4.0L,Automatic,Petrol,4
+388,MASERATI 3200,55_1,Black,Convertible,6.0L,Automatic,Petrol,4
+389,MASERATI COUPE,55_4,Black,Convertible,6.0L,Automatic,Petrol,4
+390,MASERATI GHIBLI,55_5,Black,Coupe,4.0L,Automatic,Petrol,4
+391,MASERATI GRAN TURISMO,55_8,Black,Coupe,4.0L,Automatic,Petrol,4
+392,MASERATI GRANCABRIO,55_6,Silver,Coupe,6.0L,Automatic,Petrol,4
+393,MASERATI GRANSPORT,55_7,Black,Saloon,6.0L,Automatic,Petrol,4
+394,MASERATI GRANTURISMO,55_8,Silver,Coupe,6.0L,Automatic,Petrol,4
+395,MASERATI LEVANTE,55_9,Black,Convertible,6.0L,Automatic,Petrol,4
+396,MASERATI QUATTROPORTE,55_10,Grey,Convertible,6.0L,Automatic,Petrol,4
+397,MASERATI SPYDER,55_11,White,Coupe,6.0L,Automatic,Petrol,4
+398,MAYBACH 57,56_1,White,Coupe,4.0L,Automatic,Petrol,2
+399,MAYBACH 62,56_2,Black,Saloon,6.0L,Automatic,Petrol,5
+400,MAZDA 2,57_10,Silver,Convertible,6.0L,Automatic,Petrol,4
+401,MAZDA 3,57_11,Black,Convertible,6.0L,Automatic,Petrol,4
+402,MAZDA 323,57_1,White,Coupe,4.0L,Automatic,Petrol,4
+403,MAZDA 5,57_12,Black,Convertible,4.0L,Automatic,Petrol,4
+404,MAZDA 6,57_13,Black,Coupe,6.0L,Automatic,Petrol,4
+405,MAZDA 626,57_2,Black,Convertible,6.0L,Automatic,Petrol,4
+406,MAZDA B2500,57_3,Black,Coupe,6.0L,Automatic,Petrol,4
+407,MAZDA CX3,57_6,Silver,Convertible,6.0L,Automatic,Petrol,4
+408,MAZDA CX5,57_7,Black,Convertible,4.0L,Automatic,Petrol,4
+409,MAZDA CX7,57_8,Red,Convertible,4.0L,Automatic,Petrol,4
+410,MAZDA DEMIO,57_9,Black,Convertible,4.0L,Automatic,Petrol,4
+411,MAZDA MPV,57_14,Blue,Coupe,6.0L,Automatic,Petrol,4
+412,MAZDA MX5,57_15,Black,Convertible,6.0L,Automatic,Petrol,4
+413,MAZDA MX-5,57_15,Blue,Coupe,6.0L,Automatic,Petrol,4
+414,MAZDA PREMACY,57_17,Silver,Coupe,6.0L,Automatic,Petrol,4
+415,MAZDA RX8,57_18,Grey,Convertible,4.0L,Automatic,Petrol,4
+416,MAZDA TRIBUTE,57_19,Grey,Coupe,4.0L,Automatic,Petrol,4
+417,MCLAREN 540C,58_2,Grey,Coupe,6.0L,Automatic,Petrol,4
+418,MCLAREN 570GT,58_3,Grey,Coupe,6.0L,Automatic,Petrol,4
+419,MCLAREN 570S,58_4,Blue,Saloon,6.0L,Automatic,Petrol,4
+420,MCLAREN 600LT,58_9,Blue,Coupe,6.0L,Automatic,Petrol,4
+421,MCLAREN 650S,58_5,Grey,Coupe,4.0L,Automatic,Petrol,4
+422,MCLAREN 675LT,58_6,Silver,Coupe,6.0L,Automatic,Petrol,4
+423,MCLAREN 720S,58_7,Grey,Convertible,6.0L,Automatic,Petrol,4
+424,MCLAREN P1,58_8,Black,Coupe,6.0L,Automatic,Petrol,4
+425,MERCEDES 200,59_1,Black,Coupe,6.0L,Automatic,Petrol,4
+426,MERCEDES 500,59_7,Silver,Saloon,6.0L,Automatic,Petrol,5
+427,MERCEDES A CLASS,59_8,Black,Convertible,6.0L,Automatic,Petrol,4
+428,MERCEDES AMG CLASS,59_9,White,Coupe,6.0L,Automatic,Petrol,4
+429,MERCEDES B CLASS,59_11,Black,Coupe,4.0L,Automatic,Petrol,4
+430,MERCEDES C CLASS,59_12,Black,Coupe,4.0L,Automatic,Petrol,4
+431,MERCEDES CITAN,59_13,Black,Convertible,4.0L,Automatic,Petrol,4
+432,MERCEDES CL CLASS,59_15,Black,Coupe,6.0L,Automatic,Petrol,4
+433,MERCEDES CLA CLASS,59_16,White,Convertible,6.0L,Automatic,Petrol,4
+434,MERCEDES CLC CLASS,59_17,Grey,Coupe,6.0L,Automatic,Petrol,4
+435,MERCEDES CLK CLASS,59_18,Black,Coupe,6.0L,Automatic,Petrol,4
+436,MERCEDES CLS CLASS,59_19,Silver,Coupe,6.0L,Automatic,Petrol,4
+437,MERCEDES E CLASS,59_20,Grey,Coupe,6.0L,Automatic,Petrol,4
+438,MERCEDES G CLASS,59_21,Blue,Convertible,6.0L,Automatic,Petrol,4
+439,MERCEDES GL CLASS,59_22,Blue,Coupe,6.0L,Automatic,Petrol,4
+440,MERCEDES GLA CLASS,59_23,Grey,Coupe,6.0L,Automatic,Petrol,4
+441,MERCEDES GLC CLASS,59_24,Black,Saloon,6.0L,Automatic,Petrol,5
+442,MERCEDES GLE CLASS,59_25,Blue,Coupe,6.0L,Automatic,Petrol,4
+443,MERCEDES GLS CLASS,59_26,Blue,Coupe,6.0L,Automatic,Petrol,4
+444,MERCEDES ML CLASS,59_27,Blue,Coupe,6.0L,Automatic,Petrol,4
+445,MERCEDES R CLASS,59_28,Black,Coupe,6.0L,Automatic,Petrol,4
+446,MERCEDES S CLASS,59_29,White,Coupe,6.0L,Automatic,Petrol,4
+447,MERCEDES SL CLASS,59_30,Black,Coupe,6.0L,Automatic,Petrol,4
+448,MERCEDES SLC CLASS,59_31,Blue,Coupe,6.0L,Automatic,Petrol,4
+449,MERCEDES SLK CLASS,59_32,Grey,Coupe,4.0L,Automatic,Petrol,4
+450,MERCEDES SPRINTER,59_35,Black,Coupe,6.0L,Automatic,Petrol,4
+451,MERCEDES V CLASS,59_36,Grey,Coupe,6.0L,Automatic,Petrol,4
+452,MERCEDES VANEO,59_37,White,Convertible,4.0L,Automatic,Petrol,4
+453,MERCEDES VIANO,59_38,Blue,Coupe,6.0L,Automatic,Petrol,4
+454,MERCEDES VITO,59_39,Grey,Coupe,4.0L,Automatic,Petrol,4
+455,MERCEDES X CLASS,59_40,Grey,Coupe,6.0L,Automatic,Petrol,4
+456,MG 3,53_2,Blue,Coupe,6.0L,Automatic,Petrol,4
+457,MG 6,53_3,Green,Convertible,4.0L,Semi-Automatic,Petrol,4
+458,MG GS,53_1,Grey,Coupe,4.0L,Automatic,Petrol,4
+459,MG MG6,53_3,White,Coupe,6.0L,Automatic,Petrol,4
+460,MG MGF,53_4,Grey,Convertible,4.0L,Automatic,Petrol,4
+461,MG TF,53_5,Black,Coupe,6.0L,Automatic,Petrol,4
+462,MG XS,53_10,Black,Convertible,6.0L,Automatic,Petrol,4
+463,MG ZR,53_6,Blue,Convertible,6.0L,Automatic,Petrol,4
+464,MG ZS,53_7,White,Convertible,6.0L,Automatic,Petrol,4
+465,MG ZT,53_8,White,Coupe,6.0L,Automatic,Petrol,4
+466,MICROCAR M-GO,61_1,Grey,Coupe,6.0L,Automatic,Petrol,4
+467,MINI CLUBMAN,54_1,Blue,Convertible,6.0L,Automatic,Petrol,4
+468,MINI COOPER,54_6,Grey,Coupe,6.0L,Automatic,Petrol,4
+469,MINI COUNTRYMAN,54_4,Orange,Convertible,6.0L,Automatic,Petrol,4
+470,MINI FIRST,54_6,Green,Coupe,6.0L,Automatic,Petrol,4
+471,MINI JOHN COOPER WORKS,54_9,Grey,Coupe,4.0L,Automatic,Petrol,4
+472,MINI ONE,54_6,White,Convertible,4.0L,Automatic,Petrol,4
+473,MINI PACEMAN,54_7,Silver,Coupe,6.0L,Automatic,Petrol,4
+474,MINI ROADSTER,54_8,Blue,Convertible,4.0L,Automatic,Petrol,4
+475,MITSUBISHI ASX,62_1,Black,Convertible,6.0L,Automatic,Petrol,4
+476,MITSUBISHI CARISMA,62_2,White,Coupe,6.0L,Automatic,Petrol,4
+477,MITSUBISHI COLT,62_3,Blue,Convertible,6.0L,Automatic,Petrol,4
+478,MITSUBISHI DELICA,62_6,Black,Coupe,6.0L,Automatic,Petrol,4
+479,MITSUBISHI ECLIPSE,62_7,Blue,Convertible,4.0L,Automatic,Petrol,4
+480,MITSUBISHI FTO,62_8,Grey,Coupe,6.0L,Automatic,Petrol,4
+481,MITSUBISHI GALANT,62_9,Silver,Coupe,4.0L,Automatic,Petrol,4
+482,MITSUBISHI GRANDIS,62_10,Grey,Convertible,4.0L,Automatic,Petrol,4
+483,MITSUBISHI L200,62_13,Silver,Coupe,6.0L,Automatic,Petrol,4
+484,MITSUBISHI LANCER,62_14,Black,Convertible,4.0L,Automatic,Petrol,4
+485,MITSUBISHI MIRAGE,62_15,Silver,Coupe,6.0L,Automatic,Petrol,4
+486,MITSUBISHI OUTLANDER,62_16,Grey,Coupe,6.0L,Automatic,Petrol,4
+487,MITSUBISHI PAJERO,62_17,Silver,Coupe,6.0L,Automatic,Petrol,4
+488,MITSUBISHI SHOGUN,62_18,Black,Coupe,6.0L,Automatic,Petrol,4
+489,MITSUBISHI SPACE STAR,62_21,Black,Saloon,6.0L,Automatic,Petrol,5
+490,MITSUBISHI SPACE WAGON,62_22,Silver,Coupe,6.0L,Automatic,Petrol,4
+491,MORGAN AERO,63_2,Green,Coupe,6.0L,Automatic,Petrol,4
+492,MORGAN PLUS 4,63_3,Blue,Coupe,6.0L,Automatic,Petrol,4
+493,MORGAN PLUS 8,63_4,Black,Coupe,6.0L,Automatic,Petrol,4
+494,MORGAN ROADSTER,63_5,Black,Coupe,6.0L,Automatic,Petrol,4
+495,NISSAN 350,64_1,Grey,Coupe,4.0L,Automatic,Petrol,4
+496,NISSAN 370,64_2,Grey,Coupe,6.0L,Automatic,Petrol,4
+497,NISSAN ALMERA,64_3,Grey,Coupe,6.0L,Automatic,Petrol,4
+498,NISSAN CUBE,64_5,Black,Convertible,6.0L,Automatic,Petrol,4
+499,NISSAN E-NV200,64_7,Silver,Saloon,6.0L,Automatic,Petrol,5
+500,NISSAN FAIRLADY,64_10,Silver,Coupe,6.0L,Automatic,Petrol,4
+501,NISSAN GT,64_13,Blue,Coupe,6.0L,Automatic,Petrol,4
+502,NISSAN GT-R,64_13,Blue,Coupe,6.0L,Automatic,Petrol,4
+503,NISSAN JUKE,64_14,Grey,Convertible,6.0L,Automatic,Petrol,4
+504,NISSAN LEAF,64_16,Blue,Coupe,4.0L,Automatic,Petrol,4
+505,NISSAN MICRA,64_17,Black,Convertible,6.0L,Automatic,Petrol,4
+506,NISSAN MURANO,64_19,Grey,Coupe,6.0L,Automatic,Petrol,4
+507,NISSAN NAVARA,64_20,Black,Coupe,6.0L,Automatic,Petrol,4
+508,NISSAN NOTE,64_21,Black,Convertible,6.0L,Automatic,Petrol,4
+509,NISSAN NV200,64_22,Black,Convertible,6.0L,Automatic,Petrol,4
+510,NISSAN NV300,64_23,White,Convertible,4.0L,Automatic,Petrol,4
+511,NISSAN PATHFINDER,64_24,Grey,Coupe,6.0L,Automatic,Petrol,4
+512,NISSAN PATROL,64_25,Black,Coupe,4.0L,Automatic,Petrol,4
+513,NISSAN PIXO,64_28,Green,Coupe,6.0L,Automatic,Petrol,4
+514,NISSAN PRIMASTAR,64_30,Black,Coupe,4.0L,Automatic,Petrol,4
+515,NISSAN PRIMERA,64_31,Brown,Coupe,4.0L,Automatic,Petrol,4
+516,NISSAN PULSAR,64_32,Grey,Convertible,6.0L,Automatic,Petrol,4
+517,NISSAN QASHQAI,64_33,Black,Coupe,6.0L,Automatic,Petrol,4
+518,NISSAN SERENA,64_35,Grey,Coupe,6.0L,Automatic,Petrol,4
+519,NISSAN SKYLINE,64_36,Black,Convertible,6.0L,Automatic,Petrol,4
+520,NISSAN STAGEA,64_37,Black,Convertible,6.0L,Automatic,Petrol,4
+521,NISSAN TERRANO,64_38,Blue,Coupe,4.0L,Automatic,Petrol,4
+522,NISSAN X-TRAIL,64_41,Silver,Convertible,6.0L,Automatic,Petrol,4
+523,NOBLE M600,65_2,Grey,Coupe,6.0L,Automatic,Petrol,4
+524,OPEL ASTRA,66_1,Black,Coupe,6.0L,Automatic,Petrol,4
+525,OPEL INSIGNIA,66_2,Black,Coupe,4.0L,Automatic,Petrol,4
+526,OPEL ZAFIRA,66_3,Grey,Coupe,4.0L,Automatic,Petrol,4
+527,PERODUA KELISA,68_1,White,Coupe,,Automatic,Petrol,2
+528,PERODUA KENARI,68_3,Purple,Convertible,6.0L,Automatic,Petrol,5
+529,PERODUA MYVI,68_2,Blue,Saloon,6.0L,Automatic,Petrol,5
+530,PEUGEOT 1007,69_1,White,Convertible,4.0L,Automatic,Petrol,4
+531,PEUGEOT 106,69_2,Silver,Coupe,6.0L,Automatic,Petrol,4
+532,PEUGEOT 107,69_3,Blue,Saloon,6.0L,Automatic,Petrol,5
+533,PEUGEOT 108,69_4,Black,Coupe,6.0L,Automatic,Petrol,4
+534,PEUGEOT 2008,69_5,Black,Coupe,6.0L,Automatic,Petrol,4
+535,PEUGEOT 206,69_6,Grey,Coupe,6.0L,Automatic,Petrol,4
+536,PEUGEOT 207,69_9,Grey,Convertible,4.0L,Automatic,Petrol,4
+537,PEUGEOT 208,69_12,White,Convertible,6.0L,Automatic,Petrol,4
+538,PEUGEOT 3008,69_13,Silver,Coupe,6.0L,Automatic,Petrol,4
+539,PEUGEOT 306,69_14,White,Convertible,6.0L,Automatic,Petrol,4
+540,PEUGEOT 307,69_15,White,Coupe,4.0L,Automatic,Petrol,4
+541,PEUGEOT 308,69_18,Silver,Saloon,6.0L,Automatic,Petrol,5
+542,PEUGEOT 4007,69_21,Black,Coupe,6.0L,Automatic,Petrol,4
+543,PEUGEOT 406,69_22,Grey,Coupe,6.0L,Automatic,Petrol,4
+544,PEUGEOT 407,69_23,Green,Saloon,6.0L,Automatic,Petrol,5
+545,PEUGEOT 5008,69_25,Black,Coupe,6.0L,Automatic,Petrol,4
+546,PEUGEOT 508,69_26,Grey,Coupe,4.0L,Automatic,Petrol,4
+547,PEUGEOT 607,69_28,White,Coupe,4.0L,Automatic,Petrol,4
+548,PEUGEOT 806,69_38,Silver,Coupe,6.0L,Automatic,Petrol,4
+549,PEUGEOT 807,69_29,Silver,Coupe,6.0L,Automatic,Petrol,4
+550,PEUGEOT BIPPER,69_30,Green,Convertible,6.0L,Automatic,Petrol,4
+551,PEUGEOT BOXER,69_41,Blue,Convertible,4.0L,Automatic,Petrol,4
+552,PEUGEOT EXPERT,69_31,Black,Convertible,6.0L,Automatic,Petrol,4
+553,PEUGEOT HORIZON,69_34,Silver,Coupe,6.0L,Automatic,Petrol,4
+554,PEUGEOT INDEPENDENCE,69_43,Silver,Coupe,6.0L,Automatic,Petrol,4
+555,PEUGEOT ION,69_33,Black,Coupe,6.0L,Automatic,Petrol,4
+556,PEUGEOT PARTNER,69_34,Grey,Convertible,,Automatic,Petrol,4
+557,PEUGEOT RCZ,69_36,Black,Convertible,6.0L,Automatic,Petrol,4
+558,PEUGEOT RIFTER,69_42,Silver,Coupe,6.0L,Automatic,Petrol,4
+559,PEUGEOT TRAVELLER,69_37,Blue,Coupe,6.0L,Automatic,Petrol,4
+560,PORSCHE 718 BOXSTER,71_2,Silver,Coupe,6.0L,Automatic,Petrol,4
+561,PORSCHE 718 CAYMAN,71_3,Grey,Coupe,4.0L,Automatic,Petrol,4
+562,PORSCHE 911,71_4,Silver,Coupe,6.0L,Automatic,Petrol,4
+563,PORSCHE 918,71_5,Grey,Coupe,4.0L,Automatic,Petrol,4
+564,PORSCHE BOXSTER,71_6,Silver,Coupe,4.0L,Automatic,Petrol,4
+565,PORSCHE CAYENNE,71_8,Black,Convertible,4.0L,Automatic,Petrol,4
+566,PORSCHE CAYMAN,71_9,Black,Convertible,6.0L,Automatic,Petrol,4
+567,PORSCHE MACAN,71_10,Blue,Convertible,6.0L,Automatic,Petrol,4
+568,PORSCHE PANAMERA,71_11,Blue,Coupe,4.0L,Automatic,Petrol,4
+569,PROTON GEN 2,72_1,Blue,Convertible,4.0L,Automatic,Petrol,4
+570,PROTON IMPIAN,72_2,Grey,Convertible,6.0L,Automatic,Petrol,4
+571,PROTON PERSONA,72_4,Silver,Coupe,6.0L,Automatic,Petrol,4
+572,PROTON SATRIA,72_5,Grey,Coupe,4.0L,Automatic,Petrol,4
+573,PROTON SAVVY,72_6,Blue,Coupe,4.0L,Automatic,Petrol,4
+574,PROTON WIRA,72_7,Black,Convertible,6.0L,Automatic,Petrol,4
+575,RENAULT CAPTUR,75_1,Black,Convertible,6.0L,Automatic,Petrol,4
+576,RENAULT CLIO,75_2,Red,Coupe,4.0L,Automatic,Petrol,4
+577,RENAULT ESPACE,75_3,White,Convertible,4.0L,Automatic,Petrol,4
+578,RENAULT FLUENCE,75_4,Blue,Coupe,6.0L,Automatic,Petrol,4
+579,RENAULT GRAND SCENIC,75_7,Silver,Coupe,6.0L,Automatic,Petrol,4
+580,RENAULT KADJAR,75_8,Grey,Coupe,6.0L,Automatic,Petrol,4
+581,RENAULT KANGOO,75_9,Blue,Convertible,6.0L,Automatic,Petrol,4
+582,RENAULT KOLEOS,75_10,Blue,Coupe,6.0L,Automatic,Petrol,4
+583,RENAULT LAGUNA,75_11,Blue,Coupe,4.0L,Automatic,Petrol,4
+584,RENAULT MASTER,75_23,Blue,Coupe,6.0L,Automatic,Petrol,4
+585,RENAULT MEGANE,75_12,Grey,Coupe,4.0L,Automatic,Petrol,4
+586,RENAULT MODUS,75_13,Black,Coupe,4.0L,Automatic,Petrol,4
+587,RENAULT SCENIC,75_14,Blue,Convertible,6.0L,Automatic,Petrol,4
+588,RENAULT TRAFIC,75_17,Blue,Convertible,6.0L,Automatic,Petrol,4
+589,RENAULT TWINGO,75_18,Blue,Coupe,6.0L,Automatic,Petrol,4
+590,RENAULT TWIZY,75_19,Black,Coupe,6.0L,Automatic,Petrol,4
+591,RENAULT VEL SATIS,75_20,Silver,Coupe,6.0L,Automatic,Petrol,4
+592,RENAULT WIND ROADSTER,75_21,Silver,Coupe,6.0L,Automatic,Petrol,4
+593,RENAULT ZOE,75_22,Purple,Convertible,6.0L,Automatic,Petrol,4
+594,Reva G-WIZ,76_1,Black,Convertible,6.0L,Automatic,Petrol,4
+595,ROLLS ROYCE CORNICHE,77_1,Green,Coupe,6.0L,Automatic,Petrol,4
+596,ROLLS ROYCE DAWN,77_2,Grey,Coupe,6.0L,Automatic,Petrol,4
+597,ROLLS ROYCE GHOST,77_3,Grey,Convertible,6.0L,Automatic,Petrol,4
+598,ROLLS ROYCE PHANTOM,77_4,Black,Coupe,6.0L,Automatic,Petrol,4
+599,ROLLS ROYCE SILVER SERAPH,77_5,Silver,Coupe,6.0L,Automatic,Petrol,4
+600,ROLLS ROYCE WRAITH,77_6,Silver,Convertible,6.0L,Automatic,Petrol,4
+601,ROVER 25,78_1,Silver,Coupe,6.0L,Automatic,Petrol,4
+602,ROVER 45,78_2,Silver,Coupe,6.0L,Automatic,Petrol,4
+603,ROVER 75,78_3,Silver,Coupe,6.0L,Automatic,Petrol,4
+604,ROVER CITYROVER,78_5,Grey,Coupe,4.0L,Automatic,Petrol,4
+605,ROVER MINI,78_6,Orange,Convertible,4.0L,Automatic,Petrol,4
+606,ROVER STREETWISE,78_7,Black,Convertible,6.0L,Automatic,Petrol,4
+607,SAAB 9-3,81_1,Silver,Coupe,6.0L,Automatic,Petrol,4
+608,SAAB 9-5,81_3,Black,Convertible,4.0L,Automatic,Petrol,4
+609,SANTANA PS10,82_1,White,Convertible,6.0L,Automatic,Petrol,4
+610,SEAT ALHAMBRA,79_1,Silver,Coupe,6.0L,Automatic,Petrol,4
+611,SEAT ALTEA,79_2,Black,Coupe,6.0L,Automatic,Petrol,4
+612,SEAT ARONA,79_4,Blue,Convertible,4.0L,Automatic,Petrol,4
+613,SEAT AROSA,79_5,Silver,Coupe,6.0L,Automatic,Petrol,4
+614,SEAT ATECA,79_6,Silver,Convertible,6.0L,Automatic,Petrol,4
+615,SEAT CORDOBA,79_7,Silver,Convertible,6.0L,Automatic,Petrol,4
+616,SEAT EXEO,79_8,Black,Saloon,6.0L,Automatic,Petrol,5
+617,SEAT IBIZA,79_9,Black,Coupe,6.0L,Automatic,Petrol,4
+618,SEAT LEON,79_10,Blue,Coupe,4.0L,Automatic,Petrol,4
+619,SEAT MII,79_11,Silver,Coupe,6.0L,Automatic,Petrol,4
+620,SEAT TARRACO,79_13,Black,Convertible,6.0L,Automatic,Petrol,4
+621,SEAT TOLEDO,79_12,Black,Convertible,4.0L,Automatic,Petrol,4
+622,SKODA CITIGO,80_1,Blue,Convertible,4.0L,Automatic,Petrol,4
+623,SKODA FABIA,80_2,Silver,Coupe,6.0L,Automatic,Petrol,4
+624,SKODA FELICIA,80_11,Black,Coupe,6.0L,Automatic,Petrol,4
+625,SKODA KAROQ,80_3,Blue,Convertible,6.0L,Automatic,Petrol,4
+626,SKODA KODIAQ,80_4,White,Convertible,6.0L,Automatic,Petrol,4
+627,SKODA OCTAVIA,80_5,Grey,Coupe,4.0L,Automatic,Petrol,4
+628,SKODA RAPID,80_6,Grey,Coupe,4.0L,Automatic,Petrol,4
+629,SKODA ROOMSTER,80_8,Grey,Coupe,6.0L,Automatic,Petrol,4
+630,SKODA SCALA,80_12,Purple,Convertible,6.0L,Automatic,Petrol,4
+631,SKODA SUPERB,80_9,Blue,Coupe,6.0L,Automatic,Petrol,4
+632,SKODA YETI,80_10,Black,Saloon,6.0L,Automatic,Petrol,5
+633,SMART CITY,84_2,Black,Convertible,4.0L,Automatic,Petrol,4
+634,SMART FORFOUR,84_1,Red,Coupe,6.0L,Automatic,Petrol,4
+635,SMART FORTWO,84_2,White,Convertible,4.0L,Automatic,Petrol,4
+636,SMART ROADSTER,84_3,Silver,Coupe,6.0L,Automatic,Petrol,4
+637,SSANGYONG KORANDO,85_1,Grey,Convertible,6.0L,Automatic,Petrol,4
+638,SSANGYONG KYRON,85_3,White,Coupe,4.0L,Automatic,Petrol,4
+639,SSANGYONG MUSSO,85_4,Black,Coupe,6.0L,Automatic,Petrol,4
+640,SSANGYONG REXTON,85_5,Green,Coupe,6.0L,Automatic,Petrol,4
+641,SSANGYONG RODIUS,85_6,Black,Coupe,6.0L,Automatic,Petrol,4
+642,SSANGYONG TIVOLI,85_7,Black,Coupe,6.0L,Automatic,Petrol,4
+643,SUBARU BRZ,86_1,Black,Convertible,6.0L,Automatic,Petrol,4
+644,SUBARU FORESTER,86_2,Black,Coupe,6.0L,Automatic,Petrol,4
+645,SUBARU IMPREZA,86_3,Grey,Coupe,6.0L,Semi-Automatic,Petrol,4
+646,SUBARU JUSTY,86_4,White,Convertible,6.0L,Automatic,Petrol,4
+647,SUBARU LEGACY,86_5,Green,Convertible,6.0L,Semi-Automatic,Petrol,4
+648,SUBARU LEVORG,86_6,Black,Coupe,6.0L,Automatic,Petrol,4
+649,SUBARU OUTBACK,86_7,Black,Coupe,6.0L,Automatic,Petrol,4
+650,SUBARU WRX,86_10,Blue,Convertible,4.0L,Automatic,Petrol,4
+651,SUBARU XV,86_11,Blue,Convertible,4.0L,Automatic,Petrol,4
+652,SUZUKI ALTO,87_1,Silver,Coupe,6.0L,Automatic,Petrol,4
+653,SUZUKI BALENO,87_2,Purple,Coupe,6.0L,Automatic,Petrol,4
+654,SUZUKI CELERIO,87_3,Grey,Convertible,6.0L,Automatic,Petrol,4
+655,SUZUKI GRAND VITARA,87_4,Silver,Convertible,4.0L,Automatic,Petrol,4
+656,SUZUKI IGNIS,87_5,Grey,Coupe,6.0L,Automatic,Petrol,4
+657,SUZUKI JIMNY,87_6,Black,Coupe,4.0L,Automatic,Petrol,4
+658,SUZUKI KIZASHI,87_7,Black,Coupe,4.0L,Automatic,Petrol,4
+659,SUZUKI LIANA,87_8,White,Coupe,6.0L,Automatic,Petrol,4
+660,SUZUKI SPLASH,87_9,Grey,Coupe,6.0L,Automatic,Petrol,4
+661,SUZUKI SWIFT,87_10,White,Coupe,6.0L,Automatic,Petrol,4
+662,SUZUKI SX4,87_11,Blue,Saloon,6.0L,Automatic,Petrol,4
+663,SUZUKI VITARA,87_13,Grey,Coupe,6.0L,Automatic,Petrol,4
+664,SUZUKI WAGON R+,87_14,Grey,Convertible,4.0L,Automatic,Petrol,4
+665,TATA SAFARI,89_1,Silver,Coupe,6.0L,Automatic,Petrol,4
+666,TESLA MODEL 3,90_3,Black,Coupe,4.0L,Automatic,Petrol,4
+667,TESLA MODEL S,90_1,Green,Coupe,6.0L,Automatic,Petrol,4
+668,TESLA MODEL X,90_2,Black,Coupe,6.0L,Automatic,Petrol,4
+669,TOYOTA 4-RUNNER,92_1,Black,Coupe,4.0L,Automatic,Petrol,4
+670,TOYOTA AURIS,92_3,Silver,Coupe,6.0L,Automatic,Petrol,4
+671,TOYOTA AVENSIS,92_4,White,Convertible,6.0L,Automatic,Petrol,4
+672,TOYOTA AYGO,92_6,Blue,Convertible,6.0L,Automatic,Petrol,4
+673,TOYOTA CAMRY,92_9,White,Coupe,4.0L,Automatic,Petrol,4
+674,TOYOTA CELICA,92_10,Black,Convertible,6.0L,Automatic,Petrol,4
+675,TOYOTA C-HR,92_8,Grey,Coupe,4.0L,Automatic,Petrol,4
+676,TOYOTA COROLLA,92_11,Black,Convertible,6.0L,Automatic,Petrol,4
+677,TOYOTA ESTIMA,92_14,Black,Coupe,6.0L,Semi-Automatic,Petrol,4
+678,TOYOTA GRANVIA,92_16,Grey,Coupe,6.0L,Automatic,Petrol,4
+679,TOYOTA GT86,92_17,Yellow,Convertible,4.0L,Automatic,Petrol,4
+680,TOYOTA HIACE,92_18,Grey,Coupe,4.0L,Automatic,Petrol,4
+681,TOYOTA HILUX,92_19,Grey,Coupe,6.0L,Automatic,Petrol,4
+682,TOYOTA IQ,92_20,Black,Convertible,4.0L,Automatic,Petrol,4
+683,TOYOTA LANDCRUISER,92_21,Grey,Coupe,6.0L,Automatic,Petrol,4
+684,TOYOTA MR2,92_25,Red,Convertible,,Automatic,Petrol,4
+685,TOYOTA PICNIC,92_27,Black,Convertible,6.0L,Automatic,Petrol,4
+686,TOYOTA PREVIA,92_29,Silver,Convertible,6.0L,Automatic,Petrol,2
+687,TOYOTA PRIUS,92_30,Grey,Convertible,6.0L,Automatic,Petrol,4
+688,TOYOTA PRIUS+,92_31,Grey,Coupe,4.0L,Automatic,Petrol,4
+689,TOYOTA PROACE,92_32,Grey,Coupe,6.0L,Automatic,Petrol,4
+690,TOYOTA RAV4,92_34,Silver,Coupe,6.0L,Automatic,Petrol,4
+691,TOYOTA SOARER,92_35,Grey,Convertible,6.0L,Automatic,Petrol,4
+692,TOYOTA STARLET,92_36,Blue,Saloon,6.0L,Automatic,Petrol,5
+693,TOYOTA SUPRA,92_37,Black,Convertible,6.0L,Semi-Automatic,Petrol,4
+694,TOYOTA URBAN CRUISER,92_39,Black,Coupe,6.0L,Automatic,Petrol,4
+695,TOYOTA VERSO,92_40,Silver,Coupe,6.0L,Automatic,Petrol,4
+696,TOYOTA YARIS,92_44,Blue,Coupe,6.0L,Automatic,Petrol,4
+697,TVR CERBERA,88_1,White,Coupe,6.0L,Automatic,Petrol,4
+698,TVR SAGARIS,88_2,Blue,Coupe,6.0L,Automatic,Petrol,4
+699,TVR T350,88_3,Grey,Coupe,6.0L,Automatic,Petrol,4
+700,TVR TUSCAN,88_4,Silver,Coupe,6.0L,Automatic,Petrol,4
+701,VAUXHALL ADAM,94_1,Silver,Coupe,6.0L,Automatic,Petrol,4
+702,VAUXHALL AGILA,94_2,Blue,Coupe,6.0L,Automatic,Petrol,4
+703,VAUXHALL AMPERA,94_3,Brown,Coupe,4.0L,Automatic,Petrol,4
+704,VAUXHALL ANTARA,94_4,Black,Coupe,4.0L,Automatic,Petrol,4
+705,VAUXHALL ASTRA,94_5,Black,Convertible,6.0L,Automatic,Petrol,4
+706,VAUXHALL CASCADA,94_7,Black,Coupe,6.0L,Automatic,Petrol,4
+707,VAUXHALL COMBO,94_8,White,Convertible,6.0L,Automatic,Petrol,4
+708,VAUXHALL CORSA,94_9,Black,Convertible,6.0L,Automatic,Petrol,4
+709,VAUXHALL CROSSLAND,94_10,Silver,Convertible,6.0L,Automatic,Petrol,4
+710,VAUXHALL FRONTERA,94_11,Black,Coupe,6.0L,Automatic,Petrol,4
+711,VAUXHALL GRANDLAND,94_12,Blue,Coupe,6.0L,Automatic,Petrol,4
+712,VAUXHALL INSIGNIA,94_13,Red,Coupe,6.0L,Automatic,Petrol,4
+713,VAUXHALL MERIVA,94_14,Black,Coupe,4.0L,Automatic,Petrol,4
+714,VAUXHALL MOKKA,94_15,Red,Convertible,4.0L,Automatic,Petrol,4
+715,VAUXHALL MONARO,94_17,Black,Convertible,6.0L,Automatic,Petrol,4
+716,VAUXHALL MOVANO,94_18,Blue,Convertible,6.0L,Automatic,Petrol,4
+717,VAUXHALL OMEGA,94_19,Purple,Convertible,4.0L,Automatic,Petrol,4
+718,VAUXHALL SIGNUM,94_20,Blue,Coupe,4.0L,Automatic,Petrol,4
+719,VAUXHALL TIGRA,94_21,Black,Coupe,6.0L,Automatic,Petrol,4
+720,VAUXHALL VECTRA,94_22,White,Coupe,6.0L,Automatic,Petrol,4
+721,VAUXHALL VIVA,94_23,Black,Coupe,4.0L,Automatic,Petrol,4
+722,VAUXHALL VIVARO,94_24,Grey,Convertible,6.0L,Automatic,Petrol,4
+723,VAUXHALL VX220,94_25,Black,Convertible,6.0L,Automatic,Petrol,4
+724,VAUXHALL VXR8,94_26,Black,Coupe,6.0L,Automatic,Petrol,4
+725,VAUXHALL ZAFIRA,94_27,Black,Convertible,4.0L,Automatic,Petrol,4
+726,VOLKSWAGEN ARTEON,95_2,Black,Coupe,6.0L,Automatic,Petrol,4
+727,VOLKSWAGEN BEETLE,95_3,Grey,Saloon,6.0L,Automatic,Petrol,5
+728,VOLKSWAGEN BORA,95_4,Black,Coupe,6.0L,Automatic,Petrol,4
+729,VOLKSWAGEN CADDY,95_5,Black,Saloon,6.0L,Automatic,Petrol,5
+730,VOLKSWAGEN CADDYMAXI,95_7,Grey,Coupe,4.0L,Automatic,Petrol,4
+731,VOLKSWAGEN CALIFORNIA,95_9,Silver,Coupe,6.0L,Automatic,Petrol,4
+732,VOLKSWAGEN CARAVELLE,95_11,Silver,Convertible,6.0L,Automatic,Petrol,4
+733,VOLKSWAGEN CC,95_12,Blue,Convertible,6.0L,Automatic,Petrol,4
+734,VOLKSWAGEN EOS,95_13,Blue,Convertible,6.0L,Automatic,Petrol,4
+735,VOLKSWAGEN FOX,95_14,Blue,Coupe,6.0L,Automatic,Petrol,4
+736,VOLKSWAGEN GOLF,95_15,Black,Coupe,6.0L,Automatic,Petrol,4
+737,VOLKSWAGEN HIGH UP,95_33,White,Convertible,6.0L,Automatic,Petrol,4
+738,VOLKSWAGEN JETTA,95_18,Black,Coupe,6.0L,Automatic,Petrol,4
+739,VOLKSWAGEN LOOK UP,95_33,Silver,Saloon,6.0L,Automatic,Petrol,5
+740,VOLKSWAGEN LUPO,95_19,Black,Convertible,6.0L,Automatic,Petrol,4
+741,VOLKSWAGEN PASSAT,95_20,Silver,Convertible,6.0L,Automatic,Petrol,4
+742,VOLKSWAGEN PHAETON,95_21,Grey,Coupe,6.0L,Automatic,Petrol,4
+743,VOLKSWAGEN POLO,95_22,Blue,Saloon,6.0L,Automatic,Petrol,5
+744,VOLKSWAGEN SCIROCCO,95_23,Silver,Coupe,6.0L,Automatic,Petrol,4
+745,VOLKSWAGEN SHARAN,95_24,Grey,Coupe,4.0L,Automatic,Petrol,4
+746,VOLKSWAGEN T-CROSS,95_37,Blue,Convertible,4.0L,Automatic,Petrol,4
+747,VOLKSWAGEN TIGUAN,95_26,Black,Convertible,6.0L,Automatic,Petrol,4
+748,VOLKSWAGEN TOUAREG,95_28,Blue,Convertible,6.0L,Automatic,Petrol,4
+749,VOLKSWAGEN TOURAN,95_29,Blue,Coupe,6.0L,Automatic,Petrol,4
+750,VOLKSWAGEN TRANSPORTER,95_30,Black,Coupe,6.0L,Automatic,Petrol,4
+751,VOLKSWAGEN T-ROC,95_25,Black,Coupe,6.0L,Automatic,Petrol,4
+752,VOLKSWAGEN UP,95_33,Grey,Saloon,6.0L,Automatic,Petrol,5
+753,VOLKSWAGEN UP BY,95_33,Black,Coupe,6.0L,Automatic,Petrol,4
+754,VOLKSWAGEN URBAN,95_14,Silver,Coupe,6.0L,Automatic,Petrol,4
+755,VOLKSWAGEN XL1,95_35,Black,Coupe,6.0L,Automatic,Petrol,4
+756,VOLVO C 30,96_1,Blue,Convertible,6.0L,Automatic,Petrol,4
+757,VOLVO C30,96_1,Blue,Saloon,6.0L,Automatic,Petrol,5
+758,VOLVO C70,96_2,Black,Coupe,6.0L,Automatic,Petrol,4
+759,VOLVO S40,96_3,Blue,Coupe,6.0L,Automatic,Petrol,4
+760,VOLVO S60,96_4,Blue,Coupe,6.0L,Automatic,Petrol,4
+761,VOLVO S70,96_19,Red,Coupe,4.0L,Automatic,Petrol,4
+762,VOLVO S80,96_5,White,Convertible,6.0L,Automatic,Petrol,4
+763,VOLVO S90,96_6,Green,Coupe,6.0L,Automatic,Petrol,4
+764,VOLVO V40,96_7,Silver,Coupe,6.0L,Automatic,Petrol,4
+765,VOLVO V50,96_9,Black,Convertible,4.0L,Automatic,Petrol,4
+766,VOLVO V60,96_10,Grey,Coupe,6.0L,Automatic,Petrol,4
+767,VOLVO V70,96_12,Purple,Convertible,4.0L,Automatic,Petrol,4
+768,VOLVO V90,96_14,Black,Coupe,6.0L,Automatic,Petrol,4
+769,VOLVO XC40,96_20,Grey,Coupe,6.0L,Automatic,Petrol,4
+770,VOLVO XC60,96_16,White,Coupe,4.0L,Automatic,Petrol,4
+771,VOLVO XC70,96_17,Black,Coupe,6.0L,Automatic,Petrol,4
+772,VOLVO XC90,96_18,Black,Coupe,6.0L,Automatic,Petrol,4
+773,ZENOS E10,99_1,Silver,Coupe,6.0L,Automatic,Petrol,4
